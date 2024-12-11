@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Florian!</h1>
 <h3>I'm a software development student, constantly learning and improving my skills.</h3>
 
-- 👨‍🎓 Software development **student**, constantly learning and improving my skills.
 - 🌟 Experienced in **FiveM development** using Lua, creating custom resources and managing servers.
 - 💻 I'm currently exploring **Blazor** as part of my .NET development journey.
 - 🗃️ Experienced to work with databases, including tasks like normalization and efficient data handling.  
