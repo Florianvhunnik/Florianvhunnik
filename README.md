@@ -27,3 +27,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
+
+## Discord Status:
+![Discord Presence](https://lanyard.cnrad.dev/api/943219561174552617?idleMessage=Op%20het%20moment%20geen%20actieve%20status&theme=dark&showDisplayName=true&borderRadius=10px)
