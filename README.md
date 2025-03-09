@@ -36,8 +36,3 @@
 <a href="https://instagram.com/florianvanhunnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="florianvanhunnik" height="30" width="40" /></a>
 <a href="https://dev.to/florianvhunnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="florianvhunnik" height="30" width="40" /></a>
 </p>
-
----
-
-## Discord Status:
-![Discord Presence](https://lanyard.cnrad.dev/api/943219561174552617?idleMessage=Op%20het%20moment%20geen%20actieve%20status&theme=dark&showDisplayName=true&borderRadius=10px)
