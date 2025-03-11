@@ -10,6 +10,10 @@
 - 🔒 Interested in **cybersecurity**, committed to understanding how to protect systems and data.
   
 ---
+![Stats](https://github-readme-stats.vercel.app/api?username=florianvhunnik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=florianvhunnik&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)\
+
+---
 
 <h3 align="left">Languages, Tools and Frameworks:</h3>
 <p align="left">
@@ -25,11 +29,6 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-9.0" target="_blank" rel="noreferrer"> <img src="winforms.png" alt="winforms" width="40" height="40"/> </a>
 </p>
-
----
-
-## Github Activity
-![Github Activity](https://github-readme-stats.vercel.app/api/top-langs/?username=Florianvhunnik&layout=compact&theme=dark)
 
 ---
 
