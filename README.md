@@ -1,39 +1,46 @@
 <h1 align="center">👋 Hi, I'm Florian!</h1>
-<h3 align="center">.NET Developer | Software Development | Student & Intern</h3>
+<h3 align="center">Software Developer | .NET Backend Development</h3>
 
 ---
 
 ### 🚀 About Me
-I’m a software developer student with a strong focus on **backend development** using **.NET 8, Blazor, and EF Core**.  
-I enjoy designing **scalable APIs**, applying **clean architectures**, and building software with **object-oriented programming principles**.
-Currently, I’m doing a **full-time internship**, where I work in a professional development team, actively applying my **.NET skills** while also learning and improving through real-world projects.
+
+I’m a 19-year-old software developer working on my own company, **Digentro**, while following an accelerated Software Developer program.
+
+My technical foundation is mainly within the **.NET ecosystem**, with backend development as a strong focus. I’m interested in building practical, scalable and well-thought-out software.
+
+For more information about my background, experience and current focus, feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/florianvanhunnik/).
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages & Frameworks:**  
-  C#, .NET 8, Blazor (Server & WASM), EF Core, ASP.NET Web API and Lua
-- **Database Related:**  
-  SSMS, SQL Server, LINQ, EF Core, MySQL and HeidiSQL
-- **Other Tools & Platforms:**  
-  Git, GitHub, GitLab, Jira, NuGet, Postman, Docker, Visual Studio, Visual Studio Code, JetBrains Rider, PhpStorm, SSMS, FileZilla, WinSCP, RDP, SSH, WinRAR and XAMPP
-- **FiveM Development:**  
-  Creating custom resources (using Lua), ESX/OX Core framework, server-client synchronization, prop & zone systems, debugging, and managing/configuring dedicated/VPS servers
-- **Also worked with (basic):**  
-  JavaScript, PHP, HTML, CSS, Bootstrap, MudBlazor and Linux
+
+- **Main Focus:**  
+  C#, .NET, ASP.NET Core, Entity Framework Core, REST APIs
+
+- **Frontend & UI:**  
+  Blazor, MudBlazor, React
+
+- **Databases:**  
+  SQL Server, MySQL, LINQ, SSMS, HeidiSQL
+
+- **Tools & Platforms:**  
+  Git, GitHub, GitLab, Jira, Postman, Docker, JetBrains Rider/WebStorm, Visual Studio, Visual Studio Code
+
+- **Creative & Productivity Tools:**  
+  Figma, DaVinci Resolve, Canva, Obsidian, dbdiagram.io, Markdown
+
+- **Also Worked With:**  
+  Lua, Linux, FiveM development, VPS/Dedicated servers
+
 - **Concepts & Practices:**  
-  Object-Oriented Programming (OOP), Database Normalization, Clean Architecture, REST API design, Authentication & Authorization (JWT, Role-based access), Debugging & Troubleshooting, Version Control (Git workflow), and Agile/Scrum
-
----
-
-### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=florianvhunnik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=florianvhunnik&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  Object-Oriented Programming, Clean Architecture, REST API Design, Authentication & Authorization, JWT, Role-based access, Debugging, Troubleshooting, Version Control and Agile/Scrum
 
 ---
 
 ### 🌐 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/florian-van-hunnik-3a9090293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/florianvanhunnik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/florianvanhunnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
